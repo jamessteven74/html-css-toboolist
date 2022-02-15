@@ -63,3 +63,13 @@ margin: auto;
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+/* main */
+
+#contenuto_main{
+    border: solid black;
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    margin: auto;
+}
