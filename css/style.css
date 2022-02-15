@@ -73,3 +73,40 @@ margin: auto;
     background-color: blue;
     margin: auto;
 }
+.tringle{
+    display: inline-block;
+
+}
+.bold{
+    display: inline-block;
+}
+#editorial{
+    background-color: #14AAf5;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    color: white;
+}
+
+p{
+    display: inline-block;
+}
+#editorial{
+    display: inline-block;
+}
+
+#goals{
+    background-color: #6314f5;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    color: white;
+}
+
+#mobile{
+    background-color: #f57914;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    color: white;
+}
