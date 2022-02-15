@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: lightgray;
+}
+
+/* container1 */
+/* header */
+
+header{
+    width: 100%;
+    height: 100px ;
+    background-color: white;
+    position: relative;
+    margin-bottom: 50px;;
+}  
+
+#boole{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+#tobo{
+    float: left;
+} 
+
+/* container2 */
+#container2{
+width: 800px;
+height: 600px;
+background-color: red;
+margin: auto;
+}
+
+#border{
+    border: 1px solid white;
+    background-color: white;
+    height: 50px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    
+}
+
+#input{
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+
+#task{
+    background-color: #14AAf5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    
+}
+#section{
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
