@@ -21,11 +21,13 @@ header{
 #boole{
     width: 100px;
     height: 100px;
-    float: left;
+    display: inline-block;
+   
 }
 
 #tobo{
-    float: left;
+    display: inline-block;
+    vertical-align: auto;
 } 
 
 /* container2 */
