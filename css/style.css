@@ -27,14 +27,16 @@ header{
 
 #tobo{
     display: inline-block;
-    vertical-align: auto;
+    line-height: 150px;
+    font-size: 50px;
 } 
+    
 
 /* container2 */
 #container2{
 width: 800px;
 height: 600px;
-background-color: red;
+background-color: white;
 margin: auto;
 }
 
@@ -69,10 +71,10 @@ margin: auto;
 /* main */
 
 #contenuto_main{
-    border: solid black;
+    /* border: solid black; */
     width: 500px;
     height: 500px;
-    background-color: blue;
+    /* background-color: blue; */
     margin: auto;
 }
 .tringle{
@@ -107,6 +109,22 @@ p{
 
 #mobile{
     background-color: #f57914;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    color: white;
+}
+
+#website{
+    background-color: #df7aa9;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    color: white;
+}
+
+#sales{
+    background-color: #9ccea3;
     border-radius: 10px;
     width: 80px;
     height: 30px;
